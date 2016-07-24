@@ -1,0 +1,9 @@
+<h1>Learning Journal - Code 201-Day 05 : Bronwyn</h1>
+
+Friday was definitely the roughest day of the week, though mostly that was a result of external forces and not entirely due to the material at hand. It was frustrating to get interrupted by business and child issues all within a few minutes of each other and during a critical part of the lecture on Git/GitHub. But, learning to handle those interruptions is part of the transition to a different framework for my professional and personal life. Those types of interruptions will continue (because life is full of the unexpected!) and figuring out how to balance those sometimes competing priorities even if for just a few minutes will always be a part of my future as I embark on a full-time career on top of being a solo parent and for as long as I own my own business as well.
+
+Once I was able to move past the external stresses and regain my learning equilibrium, the material began to sink it. The Git and GitHub aspects weren't as challenging as they seemed at first, and once Aaron walked me through the steps, they made sense.
+
+Figuring out the code was a mostly fun exercise that started out doing my head in a bit, but eventually sank in and it made sense. I had a decent start on things on my own, but got hung up on the logic tree of the third question. I reviewed the solution that Rachael and some others had developed and was starting to its construction. Lee walked me through what they did and it made sense to me. I was able to complete the remaining problems essentially on my own (though I did get some help from Sam regarding the "error" in the tests.js file!)  Mostly the material covered in lab today had the desired effect of reinforcing concepts and structures that are (thankfully) starting to make a lot of sense!
+
+Definitely learned the importance of reviewing TESTS and not just the code you're testing! 
