@@ -1,0 +1,5 @@
+<h1>Learning Journal - Code 201-Day 16 : Bronwyn</h1>
+
+The project team today went great. We had virtually no coding accomplished at the end of Monday, but by the end of Tuesday we had managed to develop a fully functional hangman game. The team rapport was excellent and we did a lot of team and pair programming and it all went great. We all contributed to the coding and got a lot done and each learned some new aspects of coding from each other.
+
+There were some very interesting takeaways from the day that had nothing to do with coding. In discussing the day with friends, one friend referenced Kafka's The Trial. Another good friend, the woman who most actively encouraged me to pursue coding and the bootcamp model, revealed that she had had very similar experiences to me while she was at a different coding program. That she started at 6-figures, has been rapidly promoted, and makes more than any other student from her course was greatly reassuring. As she has been the biggest influence in my pursuit of coding as a new career path, hearing about the parallels to her experience was very illuminating.
