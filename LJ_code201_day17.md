@@ -1,4 +1,4 @@
-<h1>Learning Journal - Code 201-Day 16 : Bronwyn</h1>
+<h1>Learning Journal - Code 201-Day 17 : Bronwyn</h1>
 
 The project team today went great. We had virtually no coding accomplished at the end of Monday, but by the end of Tuesday we had managed to develop a fully functional hangman game. The team rapport was excellent and we did a lot of team and pair programming and it all went great. We all contributed to the coding and got a lot done and each learned some new aspects of coding from each other.
 
